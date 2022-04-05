@@ -8,7 +8,9 @@ Este o aplicatie dezvoltata in Java fiind impartita pe mai multe module printre 
 
 La pornirea aplicatiei, utilizatorul va fi nevoit sa se logheze prin intermediul ferestrei de Login.
 
+<p align="center">
 <img src = "readme-pics/login.PNG">
+</p>
 
 Dupa ce acesta se logheaza cu succes, este mutat pe fereastra principala unde poate gestiona donatii, aparandu-i in timp real donatiile adaugate de catre alti clienti.
 
