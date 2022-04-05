@@ -1,4 +1,4 @@
-# Teledon App - Proiect pentru facultate
+# Teledon - Proiect pentru facultate
 
 ## Obiective
 Crearea unei aplicatii in care sa fie gestionate donatiile oamenilor de catre niste voluntari. Acestia vor putea sa vada in timp real donatiile adaugate de restul voluntarilor.
