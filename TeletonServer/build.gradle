@@ -1,0 +1,19 @@
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+mainClassName='StartRPCServer'
+jar{
+    manifest{
+        attributes('Main-Class':'StartRPCServer')
+    }
+    from{
+        configurations.compile.collect{it.isDirectory() ? it : zipTree(it)}
+    }
+}
+
+dependencies {
+    compile project(':TeletonModel')
+    compile project(':TeletonPersistance')
+    compile project(':TeletonService')
+    compile project(':TeletonNetworking')
+}

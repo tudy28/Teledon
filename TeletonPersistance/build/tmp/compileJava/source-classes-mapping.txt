@@ -1,0 +1,33 @@
+repository/RepositoryCazDB.java
+ repository.RepositoryCazDB
+repository/IRepositoryDonatie.java
+ repository.IRepositoryDonatie
+repository/IRepositoryCaz.java
+ repository.IRepositoryCaz
+org/hibernate/dialect/identity/SQLiteDialectIdentityColumnSupport.java
+ org.hibernate.dialect.identity.SQLiteDialectIdentityColumnSupport
+repository/AbstractDbRepository.java
+ repository.AbstractDbRepository
+Utils/JdbcUtils.java
+ Utils.JdbcUtils
+repository/Repository.java
+ repository.Repository
+repository/RepositoryDonatieDB.java
+ repository.RepositoryDonatieDB
+repository/IRepositoryVoluntar.java
+ repository.IRepositoryVoluntar
+org/hibernate/dialect/SQLiteDialect.java
+ org.hibernate.dialect.SQLiteDialect
+ org.hibernate.dialect.SQLiteDialect$1
+ org.hibernate.dialect.SQLiteDialect$2
+ org.hibernate.dialect.SQLiteDialect$3
+ org.hibernate.dialect.SQLiteDialect$4
+ org.hibernate.dialect.SQLiteDialect$SQLiteUniqueDelegate
+repository/RepositoryDonatorDB.java
+ repository.RepositoryDonatorDB
+repository/IRepositoryDonator.java
+ repository.IRepositoryDonator
+repository/RepositoryVoluntarDB.java
+ repository.RepositoryVoluntarDB
+repository/RepositoryHibernateVoluntarDB.java
+ repository.RepositoryHibernateVoluntarDB

@@ -1,0 +1,9 @@
+rootProject.name = 'ProiectJavaClientServer'
+include 'TeletonModel'
+include 'TeletonClient'
+include 'TeletonServer'
+include 'TeletonPersistance'
+include 'TeletonRun'
+include 'TeletonService'
+include 'TeletonNetworking'
+

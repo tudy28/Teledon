@@ -1,0 +1,14 @@
+model/Entity.java
+ model.Entity
+model/Voluntar.java
+ model.Voluntar
+model/Caz.java
+ model.Caz
+model/validators/ValidationException.java
+ model.validators.ValidationException
+model/validators/Validator.java
+ model.validators.Validator
+model/Donatie.java
+ model.Donatie
+model/Donator.java
+ model.Donator

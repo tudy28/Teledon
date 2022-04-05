@@ -1,0 +1,17 @@
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+mainClassName='Main'
+jar{
+    manifest{
+        attributes('Main-Class':'Main')
+    }
+    from{
+        configurations.compile.collect{it.isDirectory() ? it : zipTree(it)}
+    }
+}
+
+
+dependencies {
+    compile project(':TeletonClient')
+}
